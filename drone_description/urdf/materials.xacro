@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<robot name="drone" xmlns:xacro="http://www.ros.org/wiki/xacro" >
+
+<material name="silver_default">
+  <color rgba="0.700 0.700 0.700 1.000"/>
+</material>
+<material name="paint_enamel_glossy_black">
+  <color rgba="0.09803921568627451 0.09803921568627451 0.09803921568627451 1.0"/>
+</material>
+<material name="surface_matte">
+  <color rgba="0.7019607843137254 0.7019607843137254 0.7019607843137254 1.0"/>
+</material>
+<material name="steel_satin">
+  <color rgba="0.6274509803921569 0.6274509803921569 0.6274509803921569 1.0"/>
+</material>
+<material name="opaque25515324">
+  <color rgba="1.0 0.6 0.09411764705882353 1.0"/>
+</material>
+<material name="opaque202209238">
+  <color rgba="0.792156862745098 0.8196078431372549 0.9333333333333333 1.0"/>
+</material>
+
+</robot>
